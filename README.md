@@ -1,6 +1,11 @@
 # 拼图大师 (Puzzle Master)
 
 一个复古像素风格的拼图游戏，使用 Flask 开发。
+网页端演示：
+<img width="2682" height="1317" alt="image" src="https://github.com/user-attachments/assets/8713090f-1bbb-4743-903f-aa9c5a09e48d" />
+移动端演示：
+<img width="1333" height="1799" alt="image" src="https://github.com/user-attachments/assets/f67142a6-b5ed-4bbb-b3c1-67a0d0dea16c" />
+
 
 ## 🚀 快速开始
 
